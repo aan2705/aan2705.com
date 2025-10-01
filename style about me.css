@@ -1,0 +1,27 @@
+.container-about{
+  background-color: grey;
+  border-radius: 8px;
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+.h2{
+  border: 2px;
+  margin: 5px;
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+}
+
+.container-about2{
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+}

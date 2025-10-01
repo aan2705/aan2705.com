@@ -1,0 +1,31 @@
+.navbar{
+  background-color: gray;
+  border-radius: 10px;
+  font-size: 40px;
+}
+
+.container-wp{
+  font-size: 60px;
+  list-style-type: none;
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  padding: 15px;
+  margin: 5px;
+  color: black;
+}
+
+.container-ig{
+font-size: 60px;
+list-style-type: none;
+display: flex;
+height: 100px;
+justify-content: center;
+align-items: center;
+text-decoration: none;
+padding: 15px;
+margin: 5px;
+color: black;
+}
